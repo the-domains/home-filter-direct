@@ -1,0 +1,28 @@
+name: home filter direct
+favicon: null
+layout_spectrum: 0.6151597094722092
+typography_spectrum: 0.3498455716762692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7530129724182189
+  lightness: 0.7940826760604978
+  saturation: 0.5171927730552852
+  rhythmicContrast: 0.9990411626640707
+purpose: []
